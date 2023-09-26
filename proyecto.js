@@ -70,7 +70,7 @@ function eliminarContacto(id) {
     }
 
 console.log(listadeContactos);
-crearContacto(99, "mauricio", "ramirez", 3106211383, "Bogota", "trv 5 j # 48 a 61 sur apto 301");
+crearContacto(99, "mauricio", "ramirez", 3106211383, "Bogota", "trv 5 j # 48 a 61 sur");
 console.log(listadeContactos);
 eliminarContacto(99);
 console.log(listadeContactos);
